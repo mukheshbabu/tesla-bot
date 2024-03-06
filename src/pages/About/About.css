@@ -1,0 +1,25 @@
+/* src/pages/About.css */
+body {
+	font-family: 'Arial', sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #f4f4f4;
+  }
+  
+  .container {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+  }
+  
+  h1 {
+	color: #333;
+  }
+  
+  p {
+	font-size: 16px;
+	line-height: 1.5;
+	color: #555;
+  }
+  
+  /* Add more styles as needed for your specific layout and design */
